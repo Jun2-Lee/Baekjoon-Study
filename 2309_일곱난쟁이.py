@@ -16,3 +16,8 @@ for i in range(9):
 dworf.sort()
 for i in range(7):
     print(dworf[i])
+    
+"""
+9명 난쟁이의 키를 입력받고 
+이 중 7명의 키 합이 100이 되는 7명을 출력하는 코드이다
+"""
